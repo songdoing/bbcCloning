@@ -33,14 +33,20 @@ img {
     top:0;
     width: 100%;
     height: 100%;
+    opacity: 0;
+    transition : 0.5s;
+}
+.visible {
+    opacity:1;
 }
 .scene-img {
-    max-height: 100vh;
-    max-width: 620px;
+    max-height: 80vh;
+    max-width: 720px;
 }
 .scroll-text {
     /*기본 static이 아니면 z-index를 자동으로 가져서 맨밑이 맨위에*/
     position : relative;
+    padding-bottom: 1px;
 }
 .step {
     margin-bottom: 60vh;

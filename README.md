@@ -10,7 +10,7 @@ This is for Interactive Web Page, cloning BBC web page.
 * HTML
 
 ## Sample
-<a href="https://songdoing.github.io/bbcCloning/">HERE</a>
+<a href="https://songdoing.github.io/bbcCloning/" target="_blank">HERE</a>
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/48890162/101211114-a642be00-3644-11eb-8645-677beae068fa.png">
 <img src="https://user-images.githubusercontent.com/48890162/101211121-a80c8180-3644-11eb-8c02-691919b89284.png">
